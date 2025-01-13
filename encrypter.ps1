@@ -46,7 +46,6 @@ $MainForm.Text = "Encrypter"
 $MainForm.Width = 100
 $MainForm.Height = 100
 $MainForm.AutoSize = $true
-$MainForm.Icon = New-Object System.Drawing.Icon(".\Encrypt.ico")
 
 # encryption algorithm selection box
 $ComboBox = New-Object System.Windows.Forms.ComboBox
